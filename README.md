@@ -11,7 +11,7 @@ Prin acest ghid se încearcă explicarea unor proceduri pentru configurarea unei
 ### 1. Introducere
 Ghidul de față a luat naștere la nevoia utilizatorilor WordPress din România de a-și securiza siteurile online și este într-o continuă dezvoltare și îmbunătățire în mod voluntar de către comunitatea WordPress România.
 
-Grupul comunității WordPress România se găsește la adresa https://www.facebook.com/groups/wpromania, iar discuțiile generale, [poligloți](https://make.wordpress.org/polyglots/teams/?locale=ro_RO#locale-header)
+Există un [grup de facebook](https://www.facebook.com/groups/wpromania) al comunității WordPress România pe care se poartă discuții despre problemele întâmpinate și pe care se oferă suport din partea comunității. De asemenea, este și un spațiu de lucru pe [slack.com](https://wpromania.slack.com) cu discuții generale sau despre [localizarea](https://make.wordpress.org/polyglots/teams/?locale=ro_RO#locale-header) WordPress (canalul de _#poligloți_) în limba română.
 
 ### 2. Contribuție
 
